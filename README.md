@@ -28,6 +28,7 @@ npm install
 npx cypress open
 
 📂 Project Structure
+```bash
 qa-automation-starter-kit/
 ├── cypress/               # Cypress test framework
 │   ├── e2e/               # End-to-end test cases
@@ -38,6 +39,7 @@ qa-automation-starter-kit/
 ├── tsconfig.json          # TypeScript configuration
 ├── package.json           # Project dependencies & scripts
 ├── .eslintrc.json         # ESLint rules for code quality
+```
 
 🔥 Want the Full Version?
 
