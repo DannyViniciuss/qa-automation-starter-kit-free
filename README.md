@@ -29,15 +29,15 @@ npx cypress open
 
 📂 Project Structure
 qa-automation-starter-kit/
-│── cypress/
-│   ├── e2e/
-│   │   └── login.cy.ts
-│   ├── support/
-│   └── fixtures/
+├── cypress/               # Cypress test framework
+│   ├── e2e/               # End-to-end test cases
+│   │   └── login.cy.ts    # Example login test
+│   ├── support/           # Custom commands & test helpers
+│   └── fixtures/          # Test data & mock files
 │
-│── tsconfig.json
-│── package.json
-│── .eslintrc.json
+├── tsconfig.json          # TypeScript configuration
+├── package.json           # Project dependencies & scripts
+├── .eslintrc.json         # ESLint rules for code quality
 
 🔥 Want the Full Version?
 
